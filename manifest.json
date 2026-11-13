@@ -1,13 +1,13 @@
 {
-  "name": "BendaharaRT03",
-  "short_name": "BendaharaRT03",
+  "name": "TagihanwargaRT03",
+  "short_name": "TagihanRT03",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "bend.png",
+      "src": "tag.png",
       "sizes": "512x512",
       "type": "image/png"
     }
